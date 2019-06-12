@@ -1,0 +1,160 @@
+                                  /********************** HTML TAGS *********************/
+
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  margin: 2.5rem auto 0 auto;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+hr {
+  border-style: dotted;
+  border-width: 5px 0px 0px 0px;
+  color: #e4f9f5;
+  width: 130px;
+  margin: 100px auto;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+p {
+  margin-bottom: 0px;
+  font-size: 120%;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+
+
+                                  /******************** CLASSES ********************/
+.footer-link:hover {
+  text-decoration: underline;
+  color: white;
+}
+
+.wiut:hover {
+  color: #22b9ca;
+}
+
+.footer-link {
+  color: #40514e;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.btn {
+  margin: 50px;
+}
+
+.skills {
+  padding-bottom: 15px;
+}
+
+.web-developer {
+  font-weight: normal;
+}
+
+.azim-photo-1 {
+  border-radius: 100%;
+}
+
+.football-photo {
+  border-radius: 100%;
+  float: right;
+  margin-left: 30px;
+  width: 30%;
+}
+
+.computer-photo {
+  border-radius: 100%;
+  float: left;
+  margin-right: 30px;
+  width: 30%;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 330px;
+  height: auto;
+}
+
+.butn {
+  -webkit-border-radius: 14;
+  -moz-border-radius: 14;
+  border-radius: 14px;
+  font-family: Arial;
+  color: #ffff;
+  font-size: 20px;
+  background: #11999e;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #30e3ca;
+  text-decoration: none;
+}
+
+.middle-container {
+    margin: 100px;
+}
+
+.bottom-container {
+  background-color: #11999e;
+  color: white;
+  padding: 50px;
+  word-spacing: 10px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 350px;
+  bottom: 300px;
+
+}
+
+.contact-me {
+  line-height: 2;
+
+}
+
+.para-margin-bottom {
+  margin-bottom: 55px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 350px;
+  top: 500px;
+}
+
+
+
+                                    /******************** IDs ********************/
